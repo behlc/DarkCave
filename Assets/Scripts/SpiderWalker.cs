@@ -49,7 +49,7 @@ public class SpiderWalker : MonoBehaviour
         myBody.linearVelocity = new Vector2(transform.localScale.x, 0) * speed;
     }
 
-    void CollisionEnter2D(Collision2D collision)
+    void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.tag == "Player")
         {
