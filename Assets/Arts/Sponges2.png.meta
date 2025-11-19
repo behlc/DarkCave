@@ -1,22 +1,16 @@
 fileFormatVersion: 2
-guid: 8b1f456c24ea30e42809868064669ce0
+guid: b3abd7e7b30b1cb41aa5b95d882b0200
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 279919546456459192
-    second: Spring_0
+      213: -7179608661480365385
+    second: Sponges2_0
   - first:
-      213: 4805325407093817913
-    second: Spring_1
+      213: 2490991281724837549
+    second: Sponges2_1
   - first:
-      213: -6156498168698554787
-    second: Spring_2
-  - first:
-      213: -7753731661287566730
-    second: Spring_3
-  - first:
-      213: 5565806751010991905
-    second: Spring_4
+      213: 8837271034744483941
+    second: Sponges2_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,67 +106,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Spring_1
+      name: Sponges2_0
       rect:
         serializedVersion: 2
-        x: 317
-        y: 182
-        width: 221
-        height: 408
+        x: 0
+        y: 0
+        width: 251
+        height: 127
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9328cff7ff1ffa240800000000000000
-      internalID: 4805325407093817913
+      spriteID: 7b2252a26f7ec5c90800000000000000
+      internalID: -7179608661480365385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spring_2
+      name: Sponges2_1
       rect:
         serializedVersion: 2
-        x: 599
-        y: 203
-        width: 168
-        height: 371
+        x: 450
+        y: 2
+        width: 252
+        height: 216
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d56316ab889bf8aa0800000000000000
-      internalID: -6156498168698554787
+      spriteID: daecdc57f57c19220800000000000000
+      internalID: 2490991281724837549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spring_3
+      name: Sponges2_2
       rect:
         serializedVersion: 2
-        x: 847
-        y: 175
-        width: 194
-        height: 229
+        x: 821
+        y: 0
+        width: 251
+        height: 294
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67251459226356490800000000000000
-      internalID: -7753731661287566730
+      spriteID: 5603bc92f2b44aa70800000000000000
+      internalID: 8837271034744483941
       vertices: []
       indices: 
       edges: []
@@ -181,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 23db54533d8aae248b90c954c63cb7ff
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -189,14 +183,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Spring_0: 279919546456459192
-      Spring_1: 4805325407093817913
-      Spring_2: -6156498168698554787
-      Spring_3: -7753731661287566730
+      Sponges2_0: -7179608661480365385
+      Sponges2_1: 2490991281724837549
+      Sponges2_2: 8837271034744483941
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
