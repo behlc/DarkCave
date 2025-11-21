@@ -26,10 +26,10 @@ public class Bouncy : MonoBehaviour
 
     IEnumerator AnimateBouncy()
     {
-        anim.Play("BouncerUp");
+        anim.Play("BounceStoneUp");
         yield return new WaitForSeconds(0.5f);
 
-        anim.Play("BouncerDown");
+        anim.Play("BounceStoneDown");
 
     }
 
