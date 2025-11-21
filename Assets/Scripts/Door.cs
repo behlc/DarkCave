@@ -50,7 +50,9 @@ public class Door : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
-            Debug.Log("Game Finished");
+            //Debug.Log("Game Finished");
+            GameObject.Find("GameplayController").GetComponent<GameplayController>().PlayerDied();
+
         }
     }
 
