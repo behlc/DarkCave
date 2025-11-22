@@ -23,6 +23,7 @@ public class SpiderShooter : MonoBehaviour
         {
             // destroy the Player
             Destroy(collision.gameObject);
+            GameObject.Find("GameplayController").GetComponent<GameplayController>().PlayerDied();
         }
     }
 }

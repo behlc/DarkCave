@@ -42,6 +42,7 @@ public class SpiderJumper : MonoBehaviour
         if(collision.tag == "Player")
         {
             Destroy(collision.gameObject);
+            GameObject.Find("GameplayController").GetComponent<GameplayController>().PlayerDied();
         }
     }
 
